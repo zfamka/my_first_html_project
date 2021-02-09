@@ -1,0 +1,188 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+    width: 80%;
+}
+
+.photo{
+    width: 370px;
+    height: 354px;
+}
+
+.sidebar-content{
+    display: flex;
+    flex-direction: row;
+}
+
+aside{   
+    width: 370px;
+    height: 1300;
+    background-color: #1e2939;
+}
+
+aside li{
+    color: rgb(255, 102, 0)
+}
+
+.side-text{
+    color: white;
+}
+
+.tech-skills{
+    margin-top: 50px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+}
+
+.soft-skills{
+    margin-top: 50px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #ffffff; 
+}
+
+a{
+    color: #4a515a;
+    font-weight: 400;
+}
+
+.side-bar-margin{
+    margin-left: 40px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+}
+
+.side-bar-margin li{
+    margin-left: -20px;
+}
+
+.about-me-container{
+    padding-bottom: 5%;
+}
+
+.main-info{
+    margin-left: 50px;
+    margin-right: 200px;
+    text-align: left;
+}
+
+.main-info p{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #595959;
+}
+
+.main-info li{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #595959;
+    margin-left: -20px;
+}
+
+.work-time{
+    font-size: 12px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: #a8a8a8;
+}
+
+.main-info h2{  
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #000000;
+    margin-top: 100px;
+    margin-bottom: 5px;
+}
+
+.main-info h1{
+    font-size: 45px;
+    line-height: 89px;
+    font-weight: 700;
+    color: #000000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.projects-container h3{
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #000000;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+
+.projects-container li{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #595959;
+    margin-left: -25px;
+}
+
+.work-experience h3{
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.work-experience h4{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
+.work-company{
+color: #ff6b08;
+}
+
+.education-p{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #ff6b08;
+}
+
+.management{    
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
+.resume{
+    width: 95%;
+    height: 95%;
+    background-color: #fff;
+    box-shadow: gray;
+    margin: auto;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    box-shadow: 5px 9px 20px 0px rgba(0,0,0,0.15);
+}
+
+.xo{
+    font-weight: 400;
+    color: #37414f;
+}
